@@ -65,7 +65,7 @@ export default function Hero(props) {
                     src={ImageHero} 
                     alt="Al-Qur'an" 
                     className='img-fluid position-absolute' 
-                    style={{margin: '-20px 0 0 -20px', zIndex: 1}}/>
+                    style={{margin: '-10px 0 0 -10px', zIndex: 1}}/>
                     <img 
                     src={ImageHero_} 
                     alt="Al-Qur'an" 
