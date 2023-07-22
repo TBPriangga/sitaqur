@@ -1,0 +1,146 @@
+{
+  "_id": "asd1293uasdads1",
+  "name": "Kitab Al-Jurumiyah",
+  "type": "Kitab",
+  "imageUrls": [
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/img-featured-1.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/img-featured-2.jpg"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "url": "/images/img-featured-3.jpg"
+    }
+  ],
+  "city": "الآجُرُّومِيَّة",
+  "price": "30.000",
+  "unit": "buku",
+  "isPopular": true,
+  "hasBackyard": true,
+  "description": "<p>Kitab ilmu nahwu (ilmu tentang anatomi dan bentuk-bentuk kata dalam bahasa Arab) yang dikarang oleh Syekh Sonhaji. Kitab ini diperuntukkan untuk para santri yang baru belajar kitab kuning, karena kitab ini disusun secara sistematis dan diolah dengan bahasa yang mudah dipahami. Kitab ini merupakan pedoman level terendah dalam ilmu nahwu.</p><p>Al-Ajurrumiyah atau Jurumiyah (bahasa Arab: الآجُرُّومِيَّة) adalah sebuah kitab kecil tentang tata bahasa Arab dari abad ke-7 H/13 M. Kitab ini disusun oleh ahli bahasa dari Maroko yang bernama Abu Abdillah Sidi Muhammad bin Daud Ash-Shanhaji alias Ibnu Ajurrum (w. 1324 M).</p><p>Al-Ajurrumiyah atau Jurumiyah (bahasa Arab: الآجُرُّومِيَّة‎) adalah sebuah kitab kecil tentang tata bahasa Arab dari abad ke-7 H/13 M. Kitab ini disusun oleh ahli bahasa dari Maroko yang bernama Abu Abdillah Sidi Muhammad bin Daud Ash-Shanhaji alias Ibnu Ajurrum (w. 1324 M).</p>",
+  "features": [
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "qty": "",
+      "name": "",
+      "imageUrl": ""
+    }
+  ],
+  "activities": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Kebun Park",
+      "type": "Nature",
+      "imageUrl": "/images/categoryItem1.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Water land",
+      "type": "Pool",
+      "imageUrl": "/images/categoryItem2.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Kebun Park",
+      "type": "Nature",
+      "imageUrl": "/images/categoryItem3.png"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Water land",
+      "type": "Pool",
+      "imageUrl": "/images/categoryItem4.png"
+    }
+  ],
+  "categories": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Yuk baca kitab berikut : ",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kitab-Adzkar An-Nawawiyyah",
+          "imageUrl": "/images/treasure-1.jpg",
+          "city": "أل ادزكر أنناووية",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kitab Syarah Fatkhul Mu’in",
+          "imageUrl": "/images/treasure-2.jpg",
+          "city": "محاضرة فتح المعين",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kitab Syarah USFURIYAH",
+          "imageUrl": "/images/treasure-3.jpg",
+          "city": "أسفورية سيرة",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kitab Syarah Nurud Dholam",
+          "imageUrl": "/images/treasure-4.jpg",
+          "city": "سيرة نورود دلام",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testimonial-detailspage.jpg",
+    "name": "Kitab Amtssilah At-Tashrifiyah",
+    "rate": 4.25,
+    "content": "Selagi mempelajari ilmu nahwu, ada baiknya untuk menguasai ilmu shorof. Karena nahwu dan shorof tidak dapat dipisahkan.",
+    "familyName": "Septya Andini Putri",
+    "familyOccupation": "Mahasiswa IT Telkom Purwokerto"
+  }
+}

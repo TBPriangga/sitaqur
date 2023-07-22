@@ -49,7 +49,7 @@ export default function Testimony({ data }) {
                 type="link"
                 href={`/testimonial/${data._id}`}
               >
-                Read Their Story
+                Lihat Lebih Banyak
               </Button>
             </div>
           </div>

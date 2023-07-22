@@ -2,8 +2,6 @@ import React from 'react'
 import Fade from "react-reveal/Fade";
 import ImageHero from 'assets/images/img-hero.jpg'
 import ImageHero_ from 'assets/images/img-frame.jpg'
-import IconBook from 'assets/images/icons/icon-book.svg'
-import IconPen from 'assets/images/icons/icon-pen.svg'
 import Button from 'elements/Button'
 import formatNumber from 'utils/formatNumber'
 
@@ -37,7 +35,7 @@ export default function Hero(props) {
                 <div className='row' style={{marginTop: 80}}>
                     <div className='col-auto'style={{marginRight: 35}}>
                         <img width="36" height="36"
-                        src={IconBook} 
+                        src="images/icon-book.svg" 
                         alt={`${props.data.book} Buku`}
                         />
                         <h6 className='mt-3'>
@@ -49,7 +47,7 @@ export default function Hero(props) {
                     </div>
                     <div className='col-auto'style={{marginRight: 35}}>
                         <img width="36" height="36"
-                        src={IconPen} 
+                        src="images/icon-pen.svg"
                         alt={`${props.data.pen} Penulis`}
                         />
                         <h6 className='mt-3'>
