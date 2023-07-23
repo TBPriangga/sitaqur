@@ -41,7 +41,10 @@ export default class DetailsPage extends Component {
           </div>
           <div className="col-5">
             <Fade bottom>
-              <BookingForm itemDetails={ItemDetails}/>
+              <BookingForm itemDetails={ItemDetails}
+              startBooking={this.props.checkoutBooking}
+              />
+              
             </Fade>
           </div>
         </div>

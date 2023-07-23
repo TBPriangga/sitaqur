@@ -37,7 +37,7 @@ class BookingForm extends Component {
 
   render() {
     const { data } = this.state;
-    const { itemDetails } = this.props;
+    const { itemDetails, startBooking } = this.props;
 
     // Menggunakan fungsi toLocaleString() untuk format angka harga dengan pemisah ribuan
     const formattedPrice = itemDetails.price.toLocaleString();
