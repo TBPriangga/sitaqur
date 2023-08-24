@@ -1,3 +1,6 @@
+# This website was created to fulfill the Semester Final Examination assignment for Software Engineering course
+# You can view this Website at the following link https://sitaqur-nh7quokgp-tbpriangga.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
